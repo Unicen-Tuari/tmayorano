@@ -1,0 +1,300 @@
+
+.Bloque2 {
+
+    background-color: red;
+    height: 15px;
+   
+}
+
+.Logo {
+
+    height: 90px;  
+
+}
+
+.Centrado {
+
+   margin-top: 10px;
+   margin-left: 10px;
+   
+}
+
+.Button {
+
+    display: inline-block;
+    margin: 0px 10px;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px;
+
+  }
+  
+  li:hover {
+
+    background: rgb(223, 35, 35);
+    
+  }
+  
+  
+  .Nav {
+
+    text-align: center;
+    margin: auto;
+    
+  }
+
+  .Size {
+ 
+    height: 1000px;
+  
+  }
+
+
+
+.Noticias {
+
+  width: 88%;
+  height: 150px;
+  background-color: rgb(202, 202, 202);
+  margin-left: 6%;
+  margin-top: 6%;
+  border-radius: 10px;
+  border: solid 4px red;
+  
+}
+
+
+
+.ImgNew {
+ 
+  height: 110px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+
+
+
+.Box {
+
+background-color: white;
+width: 92%;
+height: 100%;
+border-radius: 10px;
+margin-left: 4%;
+
+}
+
+.Noticiap1 {
+
+  width: 25%;
+  
+}
+
+.Anexo {
+
+  display: inline;
+  margin-left: 10%;
+  
+}
+
+.Anexo2 {
+
+  float: right;
+  margin-right: 10%;
+
+
+}
+
+.TitleNew {
+
+  font-size: 8mm;
+  
+}
+
+a {
+
+text-decoration: none;
+color: black;
+
+}
+
+.Comentario {
+
+  width: 50%;
+  height: 150px;
+  border-radius: 10px;
+  border: solid red 6px;
+  margin-left: 25%;
+  margin-bottom: 3%;
+
+}
+
+.JPGText {
+
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+
+
+}
+
+.Text {
+
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
+  
+
+}
+
+.Titulosec {
+
+  margin-left: 10%;
+  font-size: 5mm;
+}
+
+.JPG {
+
+  width: 640px;
+  border-radius: 10px;
+  display:block;
+  margin:auto;
+  margin-top: 30px;
+
+}
+
+.Principal {
+
+  margin-left: 10%;
+  margin-top: 5%;
+  font-size: 7mm;
+  
+
+}
+
+.SizeNew {
+ 
+  width: 100%;
+  margin-bottom: 3%;
+  
+}
+
+.PrincipalFloat {
+
+  float: right;
+  background-color: rgb(206, 206, 206);
+  height: 100px;
+  width: 340px;
+  margin-top: 0%;  
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  
+
+}
+
+.TextTitle {
+
+  font-size: 6mm;
+  text-align: center;
+
+
+}
+
+.FloatBody {
+
+  margin-left: 10%;
+  margin-right: 10%;
+  
+}
+
+.FloatText {
+
+  text-align: justify;
+  margin: 0%;  
+
+}
+
+.Table {
+
+  width: 30%;
+  margin-left: 35%;
+
+ }
+
+ td, th, table {
+
+   border: 2px solid red;
+   border-collapse: collapse;
+   
+ }
+
+ td, th {
+
+   padding: 9px;
+
+ }
+
+ .Enviar {
+
+  margin: 3%;
+  display: inline;
+
+ }
+
+
+.CommentText, .Text, td, th, table, .FloatText, .Anexo3, .JPGText {
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.Principal, .TextTitle, .Titulosec, .TitleNew {
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.CommentText, .FloatText, .Text, .Anexo3 {
+
+  font-size: 4mm;
+
+}
+
+.Anexo2, .Anexo, .JPGText {
+
+  font-size: 3mm;
+
+}
+
+.Comentario, .CommentText, .FloatBody, .ImgNew, .Box, .Noticias, .Noticiap1, .SizeNew {
+
+  float: left;
+
+}
+
+.Bloque1, .Bloque2, .Centrado {
+
+  display: block;
+
+}
+
+body, .Bloque1, .Size, .Nav, .Comentario, .SizeNew {
+
+  background-color: rgb(153, 153, 153)
+  
+  }
+
+.FloatBody, .Size, .Bloque1, .Bloque2 {
+
+  width: auto;
+
+}
+
+.FloatBody, .JPG, .Bloque1 {
+
+  height: auto;
+
+}
